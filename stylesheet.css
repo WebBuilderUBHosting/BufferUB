@@ -61,6 +61,10 @@ header{
     
 }
 
+.buffer-items-2 h5{
+        color: blue;
+    margin-left: 26%;
+}
 .buffer-items p{
     text-align: center;
     color: lightgray;
